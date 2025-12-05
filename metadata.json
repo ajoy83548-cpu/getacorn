@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI for Future",
+  "description": "A next-generation AI interface capable of deep reasoning, multimedia creation (Image/Video), and smart device control.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
